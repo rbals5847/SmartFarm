@@ -32,10 +32,10 @@
 
 >> ### esp32 코드
 >>![image](https://github.com/user-attachments/assets/50c0e20a-53f7-4cdf-9e59-5259f4c47fa0)
->HtTP요청, 센서데이터를JSON 형식으로 응답
+>>HtTP요청, 센서데이터를JSON 형식으로 응답
 
 >>![image](https://github.com/user-attachments/assets/ef6c3953-fc1c-4b18-b64e-f71932cfa108)
->클라이언트로부터 받은 HTTP 요청을 수신하고 버퍼에 저장
+>>클라이언트로부터 받은 HTTP 요청을 수신하고 버퍼에 저장
 >
 >>![image](https://github.com/user-attachments/assets/4beb9946-8941-47e2-8665-127b7bbcd3b7)
 >>데이터 파싱
