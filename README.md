@@ -46,17 +46,21 @@
 >> ### NODE-RED 코드
 >
 >>![image](https://github.com/user-attachments/assets/3a38e244-de14-45e2-a4bf-2fd393e7bfdf)
+>>
 >>대시보드에서 전달된 값들과 센서값 가져오기
 >
 >>![image](https://github.com/user-attachments/assets/c8a53e8e-8c8a-4864-bd75-0e97da61688b)
+>>
 >>스캐줄러 모드 > 자동 / 수동모드
 >
 >> ### STM32 코드
 >
 >>![image](https://github.com/user-attachments/assets/31cc9d6d-5c11-4f00-b091-cdf3fd25ec20)
+>>
 >>제어상태 수신
 >
 >>![image](https://github.com/user-attachments/assets/438ae484-f0d6-4aeb-b8e1-72b10d918c71)
+>>
 >>센서 데이터 송신
 >
 >> ### 외관
